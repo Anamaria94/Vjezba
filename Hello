@@ -1,0 +1,6 @@
+Console.WriteLine("Hello world");
+<<<<<<< HEAD
+//changing something change in GITKraken
+=======
+//changing something in GiTHub
+>>>>>>> develop
